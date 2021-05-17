@@ -1,0 +1,30 @@
+.navigate-page {
+    height: 70px;
+    line-height: 2;
+}
+
+.logo {
+    top: 18px;
+    margin-left: 250px;
+    position: relative;
+}
+
+.name-brand {
+    top: 0px;
+    margin-left: 5.4px;
+    position: relative;
+    font-family: 'PT Serif', serif;
+    font-weight: 700;
+    font-size: 22.2px;
+    text-transform: uppercase;
+    color: #304771;
+}
+
+.navigate {
+    top: 2px;
+    margin-left: 310px;
+    position: relative;
+    width: 500px;
+    height: 10px;
+    font-size: 14px;
+}
