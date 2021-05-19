@@ -1,48 +1,63 @@
 .represent {
     position: relative;
-    top: 18px;
-    display: inline-block;
 }
 
-/* .represent-bg-img {
-    position: relative;
-    top: 18px;
-    max-width: 100%;
-     background: url('images/shutterstock_244000948_huge.png');
-} */
-
-.slogan {
-    background: url("images/shutterstock_244000948_huge.png");
-    position: relative;
-    max-width: 100%;
+.represent img{
+    width: 100%;
+    height: auto;
 }
 
 .represent .slogan {
     position: absolute;
-    margin: 0 auto;
-    left: 0;
-    right: 0;        
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, 0);
     text-align: center;
-    top: 43%; 
     font-family: Arial,sans-serif;
     color: #fff;
-    width: 60%;
-    line-height: 23pt;
 }
 
 .slogan-1 {
     font-family: 'Libre Baskerville', serif;
     font-weight: 700;
     text-transform: uppercase;
-    font-size: 24.5pt;
-    color: #fff;
+    font-size: 2.1vw;
+    /* color: #fff; */
 }
 
 .slogan-2 {
+    margin-top: 5px;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
+    letter-spacing: 1pt;
     font-size: 14px;
-    color: #ffffff;
+    /* color: #ffffff; */
 }
 
+.slogan-btn{
+    margin-top: 25px;
+}
+
+.slogan-btn button{
+    padding: 10px 20px;
+    width: 200px;
+    text-transform: uppercase;
+    font-size: 14pt;
+    margin: 0 5px 0 5px;
+    color: #fff;
+    border: 1px solid white;
+    background: transparent;
+    cursor: pointer;
+}
+
+.slogan-btn button:hover{
+    border: 1px solid #c8ac48;
+    background: #c8ac48;
+}
+
+.about-us{
+    transform: translateY(-50px);
+    padding: 20px 30px;
+    background-color: white;
+}
