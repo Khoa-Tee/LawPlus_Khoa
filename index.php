@@ -1,2 +1,2 @@
 <?php
-require_once("<Home_Default>index.html");
+require_once("index1.html");
