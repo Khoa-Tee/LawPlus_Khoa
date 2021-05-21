@@ -28,20 +28,65 @@
 
 .about-us .text-1 {
     position: absolute;
+    margin-top: 30px;
+    margin-left: 47%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 14px;
     text-transform: uppercase;
     color: #5a5f68;
-    letter-spacing: 1pt;
+    letter-spacing: 0.7pt;
 }
 
 .about-us .text-2 {
     position: absolute;
+    margin-top: 52px;
+    margin-left: 43%;
     font-family: 'Libre Baskerville', serif;
     font-weight: 700;
     font-size: 30px;
     text-transform: uppercase;
-    color: #5a5f68;
+    color: #304771;
     letter-spacing: 1pt;
+}
+
+.about-us .intro-info {
+    position: absolute;
+    width: 60%;
+}
+
+.about-us .intro-1 {
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 19%;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    color: #777c84;
+}
+
+.about-us .intro-2 {
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 19%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #7a7a7a;
+}
+
+.about-us .intro-3 {
+    position: absolute;
+    margin-top: 215px;
+    margin-left: 19%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #7a7a7a;
+}
+
+.about-us .lawyer{
+    width: 700px;
+    height: 677px;
+    position: absolute;
+    z-index: -1;
 }
