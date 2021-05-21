@@ -1,0 +1,47 @@
+.about-us{
+    transform: translateY(-220px);
+    padding: 170px 30px;
+    background-color: white;
+    position: relative;
+}
+
+.about-us img {
+    position: absolute;
+    margin-left: 50%;
+}
+
+.about-us .line-1 {
+    position: absolute;
+    width: 20px;
+    margin-left: 48.5%;
+    margin-top: 1.45%;
+    border-top: 0.75px solid #bda50b;
+}
+
+.about-us .line-2 {
+    position: absolute;
+    width: 20px;
+    margin-left: 52%;
+    margin-top: 1.45%;
+    border-top: 0.75px solid #bda50b;
+}
+
+.about-us .text-1 {
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #5a5f68;
+    letter-spacing: 1pt;
+}
+
+.about-us .text-2 {
+    position: absolute;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #5a5f68;
+    letter-spacing: 1pt;
+}
