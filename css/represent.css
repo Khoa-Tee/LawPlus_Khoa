@@ -3,6 +3,17 @@
     top: 23px;
 }
 
+.represent::before{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #23201e;
+    opacity: 0.3;
+}
+
 .represent img{
     width: 100%;
     height: auto;
@@ -16,17 +27,6 @@
     text-align: center;
     font-family: Arial,sans-serif;
     color: #fff;
-}
-
-.represent .slogan::before {
-    content: ' ';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #23201e;
-    opacity: 0.3;
 }
 
 .slogan-1 {

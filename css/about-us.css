@@ -7,21 +7,21 @@
 
 .about-us img {
     position: absolute;
-    margin-left: 50%;
+    margin-left: 48.3%;
 }
 
 .about-us .line-1 {
     position: absolute;
-    width: 20px;
-    margin-left: 48.5%;
+    width: 27px;
+    margin-left: 46.4%;
     margin-top: 1.45%;
     border-top: 0.75px solid #bda50b;
 }
 
 .about-us .line-2 {
     position: absolute;
-    width: 20px;
-    margin-left: 52%;
+    width: 27px;
+    margin-left: 50.2%;
     margin-top: 1.45%;
     border-top: 0.75px solid #bda50b;
 }
@@ -29,19 +29,19 @@
 .about-us .text-1 {
     position: absolute;
     margin-top: 30px;
-    margin-left: 47%;
+    margin-left: 44.67%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 14px;
     text-transform: uppercase;
     color: #5a5f68;
-    letter-spacing: 0.7pt;
+    letter-spacing: 2pt;
 }
 
 .about-us .text-2 {
     position: absolute;
     margin-top: 52px;
-    margin-left: 43%;
+    margin-left: 40.8%;
     font-family: 'Libre Baskerville', serif;
     font-weight: 700;
     font-size: 30px;
@@ -58,26 +58,34 @@
 .about-us .intro-1 {
     position: absolute;
     margin-top: 130px;
-    margin-left: 19%;
+    margin-left: 29%;
+    padding-right: 17%;
     font-family: 'Lato', sans-serif;
+    font-weight: 600;
     font-style: italic;
+    font-size: 17px;
     color: #777c84;
+    line-height: 17pt;
+    word-spacing: 2pt;
 }
 
 .about-us .intro-2 {
     position: absolute;
-    margin-top: 165px;
-    margin-left: 19%;
+    margin-top: 185px;
+    margin-left: 29%;
+    padding-right: 9%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #7a7a7a;
+    line-height: 16pt;
 }
 
 .about-us .intro-3 {
     position: absolute;
-    margin-top: 215px;
-    margin-left: 19%;
+    margin-top: 285px;
+    margin-left: 29%;
+    padding-right: 8%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 14px;
@@ -85,8 +93,139 @@
 }
 
 .about-us .lawyer{
-    width: 700px;
-    height: 677px;
+    width: 480px;
+    height: 422px;
     position: absolute;
     z-index: -1;
+    top: 225px;
+    left: 165px;
+}
+
+.about-us .recommand-1{
+    position: absolute;
+    margin-left: 5%;
+    border: 1px solid #304771;
+    background-color: #304771;
+    width: 300px;
+    height: 170px;
+    top: -25%;
+    left: 15.5%;
+}
+
+.about-us .recommand-1 .id-card-icon{
+    position: absolute;
+    width: 32px;
+    height: 32.6px;
+    left: -8px;
+    top: 31px;
+}
+
+.about-us .recommand-1 .recommand-1-text-1 {
+    position: absolute;
+    color: #fff;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 14.7px;
+    top: 77px;
+    left: 82px;
+}
+
+.about-us .recommand-1 .recommand-1-text-2 {
+    position: absolute;
+    color: #b2bbca;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 100px;
+    left: 18px;
+    font-size: 11px;
+    padding: 0 41px 0 13px;
+    text-align: center;  
+    line-height: 13pt; 
+}
+
+.about-us .recommand-2{
+    position: absolute;
+    margin-left: 24.6%;
+    border: 1px solid #283c61;
+    background-color: #283c61;
+    width: 300px;
+    height: 170px;
+    top: -25%;
+    left: 15.5%;
+}
+
+.about-us .recommand-2 .book-icon{
+    position: absolute;
+    width: 32px;
+    height: 32.6px;
+    left: -8px;
+    top: 31px;
+}
+
+.about-us .recommand-2 .recommand-2-text-1 {
+    position: absolute;
+    color: #fff;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 14.7px;
+    top: 77px;
+    left: 82px;
+}
+
+.about-us .recommand-2 .recommand-2-text-2 {
+    position: absolute;
+    color: #b2bbca;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 100px;
+    left: 18px;
+    font-size: 11px;
+    padding: 0 41px 0 13px;
+    text-align: center;  
+    line-height: 13pt; 
+}
+
+.about-us .recommand-3{
+    position: absolute;
+    margin-left: 44.5%;
+    border: 1px solid #1e3051;
+    background-color: #1e3051;
+    width: 300px;
+    height: 170px;
+    top: -25%;
+    left: 15.5%;
+}
+
+.about-us .recommand-3 .magnifying-glass-icon{
+    position: absolute;
+    width: 32px;
+    height: 32.6px;
+    left: -8px;
+    top: 31px;
+}
+
+.about-us .recommand-3 .recommand-3-text-1 {
+    position: absolute;
+    color: #fff;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 14.7px;
+    top: 77px;
+    left: 82px;
+}
+
+.about-us .recommand-3 .recommand-3-text-2 {
+    position: absolute;
+    color: #b2bbca;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 100px;
+    left: 18px;
+    font-size: 11px;
+    padding: 0 41px 0 13px;
+    text-align: center;  
+    line-height: 13pt;  
 }
