@@ -1,0 +1,138 @@
+.practice-areas {
+    transform: translateY(-150px);
+    padding: 170px 30px;
+    background-color: white;
+    position: relative;
+    margin-bottom: 15%;
+}
+
+.practice-areas .img-1{
+    position: absolute;
+    margin-left: -15%;
+    width: 25%;
+    top: 0%;
+}
+
+.practice-areas .img-2{
+    position: absolute;
+    margin-left: 4%;
+    width: 25%;
+    top: 0%;
+}
+
+.practice-areas .img-3{
+    position: absolute;
+    margin-left: 73%;
+    width: 25%;
+    top: 0%;
+}
+
+.practice-areas .img-4{
+    position: absolute;
+    margin-left: 73%;
+    width: 25%;
+    top: 0%;
+}
+
+.practice-areas .scale {
+    position: absolute;
+    margin-left: 48.3%;
+    left: 16px;
+    bottom: 0%;
+}
+
+.practice-areas .line-1 {
+    position: absolute;
+    width: 27px;
+    margin-left: 45.5%;
+    margin-top: 11.1%;
+    border-top: 0.75px solid #bda50b;
+}
+
+.practice-areas .line-2 {
+    position: absolute;
+    width: 27px;
+    margin-left: 49.28%;
+    margin-top: 11.1%;
+    border-top: 0.75px solid #bda50b;
+}
+
+.practice-areas .text-1 {
+    position: absolute;
+    margin-top: 11.5%;
+    margin-left: 44.3%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #5a5f68;
+    letter-spacing: 2pt;
+}
+
+.practice-areas .text-2 {
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 37.2%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #304771;
+    letter-spacing: 2pt;
+}
+
+.practice-areas .box-info{
+    position: absolute;
+    margin-left: 5%;
+    border: 1px solid #304771;
+    background-color: #304771;
+    width: 365px;
+    height: 220px;
+    top: 135%;
+    left: 33.1%;
+}
+
+.practice-areas .box-info .id-card-icon{
+    position: absolute;
+    left: 166px;
+    top: 31px;
+}
+
+.practice-areas .box-info .box-info-text-1 {
+    position: absolute;
+    color: #fefefe;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 20px;
+    top: 95px;
+    left: 71px;
+}
+
+.practice-areas .box-info .box-info-text-2 {
+    position: absolute;
+    color: #cdd2dd;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 120px;
+    left: -40px;
+    right: -15px;
+    font-size: 13px;
+    margin: 0 50px 0 86px;
+    text-align: center;  
+    line-height: 16pt; 
+    word-spacing: 1px;
+}
+
+.practice-areas .box-info .btn-read-more{
+    position: absolute;
+    top: 175px;
+    left: 155px;
+    color: #c8ac49;
+    cursor: pointer;
+    text-transform: capitalize;
+    background: none;
+    border: none;
+}
+
+

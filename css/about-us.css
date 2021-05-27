@@ -3,17 +3,19 @@
     padding: 170px 30px;
     background-color: white;
     position: relative;
+    margin-bottom: 15%;
 }
 
 .about-us img {
     position: absolute;
     margin-left: 48.3%;
+    left: 16px;
 }
 
 .about-us .line-1 {
     position: absolute;
     width: 27px;
-    margin-left: 46.4%;
+    margin-left: 45.5%;
     margin-top: 1.45%;
     border-top: 0.75px solid #bda50b;
 }
@@ -21,7 +23,7 @@
 .about-us .line-2 {
     position: absolute;
     width: 27px;
-    margin-left: 50.2%;
+    margin-left: 49.28%;
     margin-top: 1.45%;
     border-top: 0.75px solid #bda50b;
 }
@@ -29,7 +31,7 @@
 .about-us .text-1 {
     position: absolute;
     margin-top: 30px;
-    margin-left: 44.67%;
+    margin-left: 43.67%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 14px;
@@ -41,13 +43,13 @@
 .about-us .text-2 {
     position: absolute;
     margin-top: 52px;
-    margin-left: 40.8%;
+    margin-left: 39.8%;
     font-family: 'Libre Baskerville', serif;
-    font-weight: 700;
+    font-weight: 900;
     font-size: 30px;
     text-transform: uppercase;
     color: #304771;
-    letter-spacing: 1pt;
+    letter-spacing: 2pt;
 }
 
 .about-us .intro-info {
@@ -57,48 +59,48 @@
 
 .about-us .intro-1 {
     position: absolute;
-    margin-top: 130px;
-    margin-left: 29%;
-    padding-right: 17%;
+    margin-top: 120px;
+    margin-left: 30%;
+    padding-right: 18%;
     font-family: 'Lato', sans-serif;
     font-weight: 600;
     font-style: italic;
     font-size: 17px;
     color: #777c84;
     line-height: 17pt;
-    word-spacing: 2pt;
+    word-spacing: 1.3pt;
 }
 
 .about-us .intro-2 {
     position: absolute;
     margin-top: 185px;
-    margin-left: 29%;
-    padding-right: 9%;
+    margin-left: 30%;
+    padding-right: 1%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 13px;
     color: #7a7a7a;
-    line-height: 16pt;
+    line-height: 12pt;
 }
 
 .about-us .intro-3 {
     position: absolute;
-    margin-top: 285px;
-    margin-left: 29%;
-    padding-right: 8%;
+    margin-top: 245px;
+    margin-left: 30%;
+    padding-right: 0%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 13px;
     color: #7a7a7a;
 }
 
 .about-us .lawyer{
     width: 480px;
-    height: 422px;
+    height: 460px;
     position: absolute;
     z-index: -1;
     top: 225px;
-    left: 165px;
+    left: 190px;
 }
 
 .about-us .recommand-1{
@@ -229,3 +231,29 @@
     text-align: center;  
     line-height: 13pt;  
 }
+
+.about-us-btn{
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 17.5%;
+
+}
+
+.about-us-btn button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 10px 20px;
+    width: 200px;
+    text-transform: uppercase;
+    font-size: 14pt;
+    margin: 0 5px 0 5px;
+    border: 1px solid #304771;
+    background: transparent;
+    cursor: pointer;
+}
+
+.about-us-btn button:hover{
+    border: 1px solid #c8ac48;
+    background: #c8ac48;
+}
+
