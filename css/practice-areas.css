@@ -3,7 +3,7 @@
     padding: 170px 30px;
     background-color: white;
     position: relative;
-    margin-bottom: 15%;
+    margin-bottom: 55%;
 }
 
 .practice-areas .img-1{
@@ -87,7 +87,7 @@
     border: 1px solid #304771;
     background-color: #304771;
     width: 365px;
-    height: 220px;
+    height: 208px;
     top: 135%;
     left: 33.1%;
 }
@@ -135,4 +135,283 @@
     border: none;
 }
 
+.practice-areas .field-1{
+    position: absolute;
+    margin-left: 5%;
+    width: 365px;
+    height: 220px;
+    top: 48%;
+    left: 14%;
+}
+
+.practice-areas .number-1{
+    position: absolute;
+    top: 133%;
+    left: 20%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20pt;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.practice-areas .fields .fissure-1{
+    position: absolute;
+    left: 24%;
+    top: 150%;
+}
+
+.practice-areas .fields .task{
+    position: absolute;
+    left: 17%;
+    top: 168%;
+}
+
+.practice-areas .fields .des-1{
+    position: absolute;
+    left: -10%;
+    top: 200%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 900;
+    font-size: 14pt;
+    text-transform: capitalize;
+    color: #3b424d;
+}
+
+.practice-areas .field-1 .des-2{
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 215%;
+    left: -57%;
+    right: -3%;
+    font-size: 13px;
+    margin: 0 103px 0 111px;
+    text-align: center;  
+    color: #747981;
+} 
+
+.practice-areas .field-2{
+    position: absolute;
+    margin-left: 5%;
+    width: 365px;
+    height: 220px;
+    top: 48%;
+    left: 65%;
+}
+
+.practice-areas .number-3{
+    position: absolute;
+    top: 133%;
+    left: 20%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20pt;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.practice-areas .fields .fissure-2{
+    position: absolute;
+    left: 24.1%;
+    top: 150%;
+}
+
+.practice-areas .fields .lifeboy{
+    position: absolute;
+    left: 17%;
+    top: 168%;
+}
+
+.practice-areas .fields .des-3{
+    position: absolute;
+    left: -14%;
+    top: 200%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 900;
+    font-size: 14pt;
+    text-transform: capitalize;
+    color: #3b424d;
+}
+
+.practice-areas .field-2 .des-4{
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 215%;
+    left: -57%;
+    right: -3%;
+    font-size: 13px;
+    margin: 0 103px 0 111px;
+    text-align: center;  
+    color: #747981;
+} 
+
+.practice-areas .field-3{
+    position: absolute;
+    margin-left: 5%;
+    width: 365px;
+    height: 220px;
+    top: 125%;
+    left: 14%;
+}
+
+.practice-areas .number-4{
+    position: absolute;
+    top: 133%;
+    left: 20%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20pt;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.practice-areas .fields .fissure-3{
+    position: absolute;
+    left: 24%;
+    top: 150%;
+}
+
+.practice-areas .fields .dollar-coin{
+    position: absolute;
+    left: 18.5%;
+    top: 168%;
+}
+
+.practice-areas .fields .des-5{
+    position: absolute;
+    left: -17%;
+    top: 200%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 900;
+    font-size: 14pt;
+    text-transform: capitalize;
+    color: #3b424d;
+}
+
+.practice-areas .field-3 .des-6{
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 215%;
+    left: -57%;
+    right: -3%;
+    font-size: 13px;
+    margin: 0 103px 0 111px;
+    text-align: center;  
+    color: #747981;
+} 
+
+.practice-areas .field-4{
+    position: absolute;
+    margin-left: 5%;
+    width: 365px;
+    height: 220px;
+    top: 125%;
+    left: 40.5%;
+}
+
+.practice-areas .number-5{
+    position: absolute;
+    top: 133%;
+    left: 20%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20pt;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.practice-areas .fields .fissure-4{
+    position: absolute;
+    left: 24.2%;
+    top: 150%;
+}
+
+.practice-areas .fields .calculator{
+    position: absolute;
+    left: 19%;
+    top: 168%;
+}
+
+.practice-areas .fields .des-7{
+    position: absolute;
+    left: -11.5%;
+    top: 200%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 900;
+    font-size: 14pt;
+    text-transform: capitalize;
+    color: #3b424d;
+}
+
+.practice-areas .field-4 .des-8{
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 215%;
+    left: -57%;
+    right: -3%;
+    font-size: 13px;
+    margin: 0 103px 0 111px;
+    text-align: center;  
+    color: #747981;
+} 
+
+.practice-areas .field-5{
+    position: absolute;
+    margin-left: 5%;
+    width: 365px;
+    height: 220px;
+    top: 125%;
+    left: 65.5%;
+}
+
+.practice-areas .number-6{
+    position: absolute;
+    top: 133%;
+    left: 20%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20pt;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.practice-areas .fields .fissure-5{
+    position: absolute;
+    left: 24.2%;
+    top: 150%;
+}
+
+.practice-areas .fields .light-bulb{
+    position: absolute;
+    left: 18%;
+    top: 168%;
+}
+
+.practice-areas .fields .des-9{
+    position: absolute;
+    left: -4.4%;
+    top: 200%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 900;
+    font-size: 14pt;
+    text-transform: capitalize;
+    color: #3b424d;
+}
+
+.practice-areas .field-5 .des-10{
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    top: 215%;
+    left: -57%;
+    right: -3%;
+    font-size: 13px;
+    margin: 0 103px 0 111px;
+    text-align: center;  
+    color: #747981;
+} 
 
