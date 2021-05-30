@@ -3,8 +3,9 @@
     padding: 170px 30px;
     background-color: white;
     position: relative;
-    margin-bottom: 55%;
+    margin-bottom: 35%;
 }
+
 
 .practice-areas .img-1{
     position: absolute;
@@ -415,3 +416,8 @@
     color: #747981;
 } 
 
+.practice-areas .img-attorney img{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
