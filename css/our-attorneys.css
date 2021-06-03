@@ -1,0 +1,55 @@
+.our-attorneys {
+    transform: translateY(-209%);
+    background-color: white;
+    position: relative;
+    margin-bottom: 35%;
+    height: 1000px;
+}
+
+.our-attorneys .scale{
+    position: absolute;
+    top: 10%;
+    left: 49.5%;
+}
+
+.our-attorneys .line-1{
+    position: absolute;
+    width: 27px;
+    top: 12.3%;
+    left: 47.6%;
+    border-top: 0.75px solid #bda50b;
+}
+
+.our-attorneys .line-2{
+    position: absolute;
+    width: 27px;
+    top: 12.3%;
+    left: 51.4%;
+    border-top: 0.75px solid #bda50b;
+}
+
+.our-attorneys .intro-1{
+    position: absolute;
+    top: 12.7%;
+    left: 44%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #5a5f68;
+    font-size: 12pt;
+    letter-spacing: 0.8pt;
+    word-spacing: 2pt;
+}
+
+.our-attorneys .intro-2{
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #304771;
+    font-size: 22pt;
+    letter-spacing: 1.8pt;
+    word-spacing: 4pt;
+}
