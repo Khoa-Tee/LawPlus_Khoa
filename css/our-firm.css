@@ -1,0 +1,268 @@
+.our-firm {
+    transform: translateY(-306.4%);
+    background-color: white;
+    position: relative;
+    height: 1000px;
+}
+
+.our-firm .scale{
+    position: absolute;
+    top: 10%;
+    left: 49.5%;
+}
+
+.our-firm .line-1{
+    position: absolute;
+    width: 27px;
+    top: 12.3%;
+    left: 47.6%;
+    border-top: 0.75px solid #bda50b;
+}
+
+.our-firm .line-2{
+    position: absolute;
+    width: 27px;
+    top: 12.3%;
+    left: 51.4%;
+    border-top: 0.75px solid #bda50b;
+}
+
+.our-firm .intro-1{
+    position: absolute;
+    top: 12.7%;
+    left: 45%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #5a5f68;
+    font-size: 12pt;
+    letter-spacing: 0.8pt;
+    word-spacing: 2pt;
+}
+
+.our-firm .intro-2{
+    position: absolute;
+    top: 15%;
+    left: 39.9%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #304771;
+    font-size: 22pt;
+    letter-spacing: 1.8pt;
+    word-spacing: 4pt;
+}
+
+.our-firm .bg-of-our-firm{
+    position: absolute;
+    top: 25%;
+    left: 14.5%;
+    width: 532px;
+}
+
+.our-firm .white-bg-left{
+    position: absolute;
+    top: 25%;
+    left: 7.3%;
+    content: ' ';
+    background-color: #fff;
+    width: 12%;
+    height: 36%;
+}
+
+.our-firm .white-bg-bottom{
+    position: absolute;
+    top: 50%;
+    left: 19%;
+    content: ' ';
+    background-color: #fff;
+    width: 31%;
+    height: 11%;
+}
+
+.our-firm .white-bg-top{
+    position: absolute;
+    top: 24.35%;
+    left: 19%;
+    content: ' ';
+    background-color: #fff;
+    width: 31%;
+    height: 2%;
+}
+
+.our-firm .text-1-16{
+    position: absolute;
+    top: 52%;
+    left: 19.3%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    color: #3b424d;
+    font-size: 14.7pt;
+}
+
+.our-firm .blue{
+    position: absolute;
+    top: 26.4%;
+    left: 19.3%;
+    width: 4.6%;
+    height: 5%;
+    background-color: #304771;
+}
+
+.our-firm .day-16{
+    position: absolute;
+    top: 27.1%;
+    left: 20.6%;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20pt;
+    color: #fff;
+}
+
+.our-firm .yellow{
+    position: absolute;
+    top: 31.4%;
+    left: 19.3%;
+    width: 4.6%;
+    height: 2.7%;
+    background-color: #bda50b;
+}
+
+.our-firm .august{
+    position: absolute;
+    top: 31.6%;
+    left: 20.7%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 12pt;
+    color: #fff;
+}
+
+.our-firm .text-2-16{
+    position: absolute;
+    top: 55.5%;
+    left: 19.3%;
+    color: #747981;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 10.5pt;
+    word-spacing: -1pt;
+}
+
+.our-firm .text-3-16{
+    position: absolute;
+    top: 55.5%;
+    left: 29.1%;
+    color: #747981;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 10.5pt;
+    word-spacing: -1pt;
+}
+
+.our-firm .text-4-16{
+    position: absolute;
+    top: 55.5%;
+    left: 34.7%;
+    color: #747981;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 10.5pt;
+    word-spacing: -1pt;
+}
+
+.our-firm .text-5-16{
+    position: absolute;
+    top: 58.8%;
+    left: 19.3%;
+    color: #7a7a7a;
+    padding-right: 50%;
+    line-height: 14pt;
+    text-align: left;
+    font-size: 9.5pt;
+}
+
+.our-firm .text-6-16{
+    position: absolute;
+    top: 67%;
+    left: 19.3%;
+    color: #555555;
+    font-size: 12pt;
+    text-transform: capitalize;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.our-firm .line-16{
+    position: absolute;
+    top: 69%;
+    left: 19.3%;
+}
+
+.our-firm .img-1-16{
+    position: absolute;
+    top: 55.1%;
+    left: 27.5%;
+    color: #747981;
+}
+
+.our-firm .img-2-16{
+    position: absolute;
+    top: 55.1%;
+    left: 32.8%;
+    color: #747981;
+}
+
+.our-firm .bg-none-16{
+    position: absolute;
+    top: 52%;
+    left: 52%;
+    background-color: #fafafa;
+    width: 418px;
+    height: 115px;
+} 
+
+.our-firm .blue-1{
+    position: absolute;
+    top: 54.4%;
+    left: 50.3%;
+    width: 4.6%;
+    height: 5%;
+    background-color: #304771;
+}
+
+.our-firm .day-16-1{
+    position: absolute;
+    top: 55.1%;
+    left: 51.6%;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20pt;
+    color: #fff;
+    letter-spacing: 2pt;
+}
+
+.our-firm .yellow-1{
+    position: absolute;
+    top: 59.4%;
+    left: 50.3%;
+    width: 4.6%;
+    height: 2.7%;
+    background-color: #bda50b;
+}
+
+.our-firm .august-1{
+    position: absolute;
+    top: 59.6%;
+    left: 51.7%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 12pt;
+    color: #fff;
+}
+
