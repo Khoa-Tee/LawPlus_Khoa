@@ -1,5 +1,5 @@
 .our-attorneys {
-    transform: translateY(-209%);
+    transform: translateY(-172%);
     background-color: white;
     position: relative;
     margin-bottom: 35%;
@@ -31,7 +31,7 @@
 .our-attorneys .intro-1{
     position: absolute;
     top: 12.7%;
-    left: 44%;
+    left: 43.8%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
@@ -44,20 +44,20 @@
 .our-attorneys .intro-2{
     position: absolute;
     top: 15%;
-    left: 40%;
+    left: 39%;
     font-family: 'Libre Baskerville', serif;
     font-weight: 900;
     text-transform: uppercase;
     color: #304771;
     font-size: 22pt;
-    letter-spacing: 1.8pt;
-    word-spacing: 4pt;
+    letter-spacing: 2.8pt;
+    word-spacing: 1pt;
 }
 
 .our-attorneys .left{
     position: absolute;
     top: 25%;
-    left: 12.8%;
+    left: 10.8%;
     width: auto;
     height: auto;
 }
@@ -65,7 +65,7 @@
 .our-attorneys .left-above{
     position: absolute;
     top: 39%;
-    left: 12.8%;
+    left: 10.8%;
     width: auto;
     height: auto;
 }
@@ -73,7 +73,7 @@
 .our-attorneys .box-left-1{
     position: absolute;
     top: 66%;
-    left: 12.3%;
+    left: 10.3%;
     background-color: #c8ac49;
     width: 370px;
     height: 60px;
@@ -103,7 +103,7 @@
 .our-attorneys .box-left-2{
     position: absolute;
     top: 71.9%;
-    left: 12.3%;
+    left: 10.3%;
     background-color: #fafafa;
     width: 370px;
     height: 60px;
@@ -179,7 +179,7 @@
 .our-attorneys .middle{
     position: absolute;
     top: 25%;
-    left: 40.8%;
+    left: 39.8%;
     width: auto;
     height: auto;
 }
@@ -187,7 +187,8 @@
 .our-attorneys .opacity{
     position: absolute;
     content: ' ';
-    top: -211%;
+    top: -213%;
+    left: 0%;
     width: 370px;
     height: 400px;
     background-color: #747981;
@@ -198,9 +199,9 @@
 .our-attorneys .box-middle-1{
     position: absolute;
     top: 55%;
-    left: 38.8%;
+    left: 38%;
     background-color: #c8ac49;
-    width: 370px;
+    width: 371px;
     height: 60px;
 
 }
@@ -228,9 +229,9 @@
 .our-attorneys .box-middle-2{
     position: absolute;
     top: 60.9%;
-    left: 38.8%;
+    left: 38%;
     background-color: #fafafa;
-    width: 370px;
+    width: 371px;
     height: 171px;
 
 }

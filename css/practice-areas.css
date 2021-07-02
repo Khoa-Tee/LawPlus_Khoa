@@ -6,61 +6,146 @@
     height: 1000px;
 }
 
+.practice-areas .chassis{
+    position: absolute;
+    top: 27.5%;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+}
+
 .practice-areas .img-1{
     position: absolute;
-    margin-left: -15%;
-    width: 25%;
+    left: -30%;
+    width: 55%;
     top: 0%;
 }
 
 .practice-areas .img-2{
     position: absolute;
-    margin-left: 4%;
-    width: 25%;
+    left: 9%;
+    width: 55%;
     top: 0%;
 }
 
 .practice-areas .img-3{
     position: absolute;
-    margin-left: 73%;
-    width: 25%;
+    left: 54%;
+    width: 55%;
     top: 0%;
 }
 
 .practice-areas .img-4{
     position: absolute;
-    margin-left: 73%;
-    width: 25%;
+    left: 77%;
+    width: 55%;
     top: 0%;
 }
 
 .practice-areas .scale {
     position: absolute;
-    margin-left: 48.3%;
-    left: 16px;
-    bottom: 68%;
+    left: 49.6%;
+    bottom: 83.3%;
 }
+
+.scales::before{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: #23201e;
+    opacity: 0.3;
+}
+
+.practice-areas .scales-text-1{
+    position: absolute;
+    top: 5.4%;
+    left: 42.8%;
+    z-index: 1;
+    font-size: 34px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.practice-areas .scales-text-1-right{
+    position: absolute;
+    top: 6.5%;
+    left: 53%;
+    z-index: 1;
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.practice-areas .scales-text-2{
+    position: absolute;
+    top: 10%;
+    left: 41%;
+    width: 41%;
+    z-index: 1;
+    font-size: 11px;
+    line-height: 20px;
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #f1f1f1;
+}
+
+.practice-areas-btn{
+    position: absolute;
+    margin-top: 11.5%;
+    margin-left: 55.5%;
+    z-index: 1;
+    background-color: #c8ac48;
+}
+
+.practice-areas-btn button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 5px 5px;
+    width: 150px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 10pt;
+    border: 1px solid #c8ac48;
+    background: transparent;
+    cursor: pointer;
+}
+
+.practice-areas-btn button:hover{
+    border: 1px solid #304771;
+    background: #304771;
+    width: 150px;
+}
+
 
 .practice-areas .line-1 {
     position: absolute;
     width: 27px;
-    margin-left: 47.5%;
-    margin-top: 21%;
+    top: 16.6%;
+    left: 47.6%;
     border-top: 0.75px solid #bda50b;
 }
 
 .practice-areas .line-2 {
     position: absolute;
     width: 27px;
-    margin-left: 51.2%;
-    margin-top: 21%;
+    top: 16.6%;
+    left: 51.6%;
     border-top: 0.75px solid #bda50b;
 }
 
 .practice-areas .text-1 {
     position: absolute;
-    margin-top: 21.5%;
-    margin-left: 46.3%;
+    top: 17%;
+    left: 46.3%;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 14px;
@@ -71,8 +156,8 @@
 
 .practice-areas .text-2 {
     position: absolute;
-    margin-top: 23%;
-    margin-left: 39%;
+    top: 19%;
+    left: 38.7%;
     font-family: 'Libre Baskerville', serif;
     font-weight: 900;
     font-size: 30px;
@@ -83,13 +168,12 @@
 
 .practice-areas .box-info{
     position: absolute;
-    margin-left: 5%;
     border: 1px solid #304771;
     background-color: #304771;
     width: 365px;
     height: 208px;
-    top: 45%;
-    left: 33.1%;
+    top: 30%;
+    left: 37.5%;
 }
 
 .practice-areas .box-info .id-card-icon{
@@ -137,11 +221,10 @@
 
 .practice-areas .field-1{
     position: absolute;
-    margin-left: 5%;
     width: 365px;
     height: 220px;
-    top: 48%;
-    left: 14%;
+    top: 33%;
+    left: 18%;
 }
 
 .practice-areas .number-1{
@@ -189,15 +272,15 @@
     margin: 0 103px 0 111px;
     text-align: center;  
     color: #747981;
+    line-height: 14pt;
 } 
 
 .practice-areas .field-2{
     position: absolute;
-    margin-left: 5%;
     width: 365px;
     height: 220px;
-    top: 48%;
-    left: 65%;
+    top: 33%;
+    left: 70%;
 }
 
 .practice-areas .number-3{
@@ -245,15 +328,15 @@
     margin: 0 103px 0 111px;
     text-align: center;  
     color: #747981;
+    line-height: 14pt;
 } 
 
 .practice-areas .field-3{
     position: absolute;
-    margin-left: 5%;
     width: 365px;
     height: 220px;
-    top: 74%;
-    left: 14%;
+    top: 60%;
+    left: 18%;
 }
 
 .practice-areas .number-4{
@@ -301,15 +384,15 @@
     margin: 0 103px 0 111px;
     text-align: center;  
     color: #747981;
+    line-height: 14pt;
 } 
 
 .practice-areas .field-4{
     position: absolute;
-    margin-left: 5%;
     width: 365px;
     height: 220px;
-    top: 74%;
-    left: 40.5%;
+    top: 60%;
+    left: 44.5%;
 }
 
 .practice-areas .number-5{
@@ -357,15 +440,15 @@
     margin: 0 103px 0 111px;
     text-align: center;  
     color: #747981;
+    line-height: 14pt;
 } 
 
 .practice-areas .field-5{
     position: absolute;
-    margin-left: 5%;
     width: 365px;
     height: 220px;
-    top: 74%;
-    left: 65.5%;
+    top: 60%;
+    left: 70%;
 }
 
 .practice-areas .number-6{
@@ -413,6 +496,7 @@
     margin: 0 103px 0 111px;
     text-align: center;  
     color: #747981;
+    line-height: 14pt;
 } 
 
 .practice-areas .command{

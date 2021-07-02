@@ -242,10 +242,10 @@
 .about-us-btn button{
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    padding: 10px 20px;
-    width: 200px;
+    padding: 10px 10px;
+    width: 150px;
     text-transform: uppercase;
-    font-size: 14pt;
+    font-size: 12pt;
     margin: 0 5px 0 5px;
     border: 1px solid #304771;
     background: transparent;
