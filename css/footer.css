@@ -1,0 +1,109 @@
+.footer {
+    transform: translateY(-242.4%);
+    position: relative;
+    height: 1000px;
+    background-color: #0a152a;
+}
+
+.footer .icon-shield{
+    position: absolute;
+    top: 7%;
+    left: 50%;
+}
+
+.footer .slogan-end{
+    position: absolute;
+    top: 16%;
+    left: 28.4%;
+    font-size: 10pt;
+    line-height: 16pt;
+    width: 49%;
+    color: #a7aeba;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.footer .social-icon-footer{
+    position: absolute;
+    top: 23%;
+    left: 47%;
+}
+
+.footer .line-shape{
+    position: absolute;
+    top: 30%;
+    left: -20%;
+}
+
+.footer .line-1{
+    position: absolute;
+    top: 35%;
+    left: 20%;
+}
+
+.footer .line-2{
+    position: absolute;
+    top: 35.4%;
+    left: 20%;
+}
+
+.footer .contact-text{
+    position: absolute;
+    top: 36.5%;
+    left: 20%;
+    text-transform: uppercase;
+    font-size: 13.5pt;
+    color: #d5d8df;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+}
+
+.footer .icon-contact{
+    position: absolute;
+    top: 43%;
+    left: 20%;
+}
+
+.footer .location{
+    position: absolute;
+    top: 42.7%;
+    left: 22%;
+    color: #979ca5;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 10.5pt;
+}
+
+.footer .phone-number-1{
+    position: absolute;
+    top: 45.7%;
+    left: 22%;
+    color: #979ca5;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 12pt;
+}
+
+.footer .phone-number-2{
+    position: absolute;
+    top: 48.7%;
+    left: 22%;
+    color: #979ca5;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 12pt;
+}
+
+.footer .mail-contact{
+    position: absolute;
+    top: 52%;
+    left: 22%;
+    color: #979ca5;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 10.5pt;
+}
