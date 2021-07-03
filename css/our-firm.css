@@ -576,3 +576,247 @@
     left: 72.8%;
     color: #747981;
 }
+
+.our-firm .layer-48-1{
+    position: absolute;
+    top: 77%;
+    left: -2%;
+    width: 64%;
+}
+
+.our-firm .layer-48-2{
+    position: absolute;
+    top: 77%;
+    left: -28%;
+    width: 64%;
+}
+
+.our-firm .layer-48-3{
+    position: absolute;
+    top: 77%;
+    left: -44%;
+    width: 64%;
+}
+
+.our-firm .layer-48-4{
+    position: absolute;
+    top: 77%;
+    left: 59%;
+    width: 64%;
+}
+
+.our-firm .layer-48-5{
+    position: absolute;
+    top: 77%;
+    left: 85.6%;
+    width: 64%;
+}
+
+.request::before{
+    content: ' ';
+    position: absolute;
+    top: 69.9%;
+    left: 0;
+    width: 100%;
+    height: 51%;
+    z-index: 1;
+    background-color: #fff;
+    opacity: 0.9;
+}
+
+.our-firm .scale-of-request{
+    position: absolute;
+    top: 85%;
+    left: 57%;
+    z-index: 1;
+}
+
+.our-firm .line-left{
+    position: absolute;
+    top: 87.35%;
+    left: 55%;
+    z-index: 1;
+    width: 27px;
+    border-top: 0.75px solid #bda50b;
+}
+
+.our-firm .line-right{
+    position: absolute;
+    top: 87.35%;
+    left: 59%;
+    z-index: 1;
+    width: 27px;
+    border-top: 0.75px solid #bda50b;
+}
+
+.our-firm .text-first{
+    position: absolute;
+    top: 87.8%;
+    left: 50.9%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    letter-spacing: 2pt;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #5a5f68;
+    z-index: 1;
+}
+
+.our-firm .text-second{
+    position: absolute;
+    top: 89.8%;
+    left: 43.3%;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 1000;
+    letter-spacing: 3pt;
+    text-transform: uppercase;
+    font-size: 28px;
+    color: #304771;
+    z-index: 1;
+}
+
+.our-firm .box-name{
+    position: absolute;
+    top: 97%;
+    left: 30%;
+    width: 27%;
+    height: 3%;
+    z-index: 1;
+    border: 0.75px solid #304771;
+}
+
+.our-firm .name{
+    position: absolute;
+    top: 97.7%;
+    left: 31%;
+    color: #9da3ad;
+    font-size: 12px;
+    text-transform: capitalize;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    z-index: 1;
+}
+
+.our-firm .box-mail{
+    position: absolute;
+    top: 97%;
+    left: 58%;
+    width: 27%;
+    height: 3%;
+    z-index: 1;
+    border: 0.75px solid #304771;
+}
+
+.our-firm .mail{
+    position: absolute;
+    top: 97.7%;
+    left: 59%;
+    color: #9da3ad;
+    font-size: 12px;
+    text-transform: capitalize;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    z-index: 1;
+}
+
+.our-firm .box-phone{
+    position: absolute;
+    top: 101%;
+    left: 30%;
+    width: 27%;
+    height: 3%;
+    z-index: 1;
+    border: 0.75px solid #304771;
+}
+
+.our-firm .phone{
+    position: absolute;
+    top: 101.7%;
+    left: 31%;
+    color: #9da3ad;
+    font-size: 12px;
+    text-transform: capitalize;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    z-index: 1;
+}
+
+.our-firm .box-subject{
+    position: absolute;
+    top: 101%;
+    left: 58%;
+    width: 27%;
+    height: 3%;
+    z-index: 1;
+    border: 0.75px solid #304771;
+}
+
+.our-firm .subject{
+    position: absolute;
+    top: 101.7%;
+    left: 59%;
+    color: #9da3ad;
+    font-size: 12px;
+    text-transform: capitalize;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    z-index: 1;
+}
+
+.our-firm .box-case-detail{
+    position: absolute;
+    top: 105%;
+    left: 30%;
+    width: 55%;
+    height: 6%;
+    z-index: 1;
+    border: 0.75px solid #304771;
+}
+
+.our-firm .case-detail{
+    position: absolute;
+    top: 105.7%;
+    left: 31.4%;
+    color: #9da3ad;
+    font-size: 12px;
+    text-transform: capitalize;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    z-index: 1;
+}
+
+.our-firm-btn{
+    position: absolute;
+    margin-top: 78%;
+    margin-left: 53%;
+    z-index: 1;
+    background-color: #c8ac48;
+}
+
+.our-firm-btn button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 5px 5px;
+    width: 150px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 10pt;
+    border: 1px solid #c8ac48;
+    background: transparent;
+    cursor: pointer;
+}
+
+.our-firm-btn button:hover{
+    border: 1px solid #304771;
+    background: #304771;
+    width: 150px;
+}
+
+.our-firm .layer-49{
+    position: absolute;
+    top: 69%;
+    left: 1%;
+    width: 27%;
+    height: 66%;
+    z-index: 1;
+}
